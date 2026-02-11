@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Thrift Shop",
+  "base_artist": "Macklemore & Ryan Lewis",
+  "createdAt": "2026-02-11T14:25:21.237129Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Thrift Shop",
+      "artist": "Scott Bradlee & Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/01_Thrift_Shop_Scott_Bradlee_&_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Thrift Shop",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/02_Thrift_Shop_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Thrift Shop - feat. Wanz",
+      "artist": "Macklemore & Ryan Lewis",
+      "has_synced": true,
+      "path": "select/03_Thrift_Shop_-_feat._Wanz_Macklemore_&_Ryan_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Thrift Shop (feat. Wanz)",
+      "artist": "Macklemore & Ryan Lewis",
+      "has_synced": true,
+      "path": "select/04_Thrift_Shop_(feat._Wanz)_Macklemore_&_Ryan_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Thrift Shop",
+      "artist": "Macklemore & Ryan Lewis",
+      "has_synced": true,
+      "path": "select/05_Thrift_Shop_Macklemore_&_Ryan_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Thrift Shop (Feat. Wanz)",
+      "artist": "Ryan Macklemore & Lewis",
+      "has_synced": true,
+      "path": "select/06_Thrift_Shop_(Feat._Wanz)_Ryan_Macklemore_&_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Thrift Shop",
+      "artist": "Macklemore",
+      "has_synced": true,
+      "path": "select/07_Thrift_Shop_Macklemore.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Thrift Shop (feat. Wanz)",
+      "artist": "Macklemore & Ryan Lewis & Wänz",
+      "has_synced": true,
+      "path": "select/08_Thrift_Shop_(feat._Wanz)_Macklemore_&_Ryan_Lewis_&_Wänz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Thrift Shop",
+      "artist": "Macklemore & Ryan Lewis featuring Wanz",
+      "has_synced": true,
+      "path": "select/09_Thrift_Shop_Macklemore_&_Ryan_Lewis_featuring_Wanz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Thrift Shop (2013)",
+      "artist": "Macklemore & Ryan Lewis Ft Wanz",
+      "has_synced": true,
+      "path": "select/10_Thrift_Shop_(2013)_Macklemore_&_Ryan_Lewis_Ft_Wanz.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Thrift Shop",
+      "artist": "Macklemore & Ryan Lewis Ft Wanz",
+      "has_synced": true,
+      "path": "select/11_Thrift_Shop_Macklemore_&_Ryan_Lewis_Ft_Wanz.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Thrift Shop (feat. Wanz)",
+      "artist": "Macklemore",
+      "has_synced": true,
+      "path": "select/12_Thrift_Shop_(feat._Wanz)_Macklemore.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Thrift Shop (feat. Wanz)",
+      "artist": "Macklemore & Ryan Lewis",
+      "has_synced": true,
+      "path": "select/13_Thrift_Shop_(feat._Wanz)_Macklemore_&_Ryan_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Thrift Shop",
+      "artist": "Macklemore & Ryan Lewis (ft. Wanz)",
+      "has_synced": true,
+      "path": "select/14_Thrift_Shop_Macklemore_&_Ryan_Lewis_(ft._Wanz).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Thrift Shop",
+      "artist": "Macklemore & Ryan Lewis feat. Wanz",
+      "has_synced": true,
+      "path": "select/15_Thrift_Shop_Macklemore_&_Ryan_Lewis_feat._Wanz.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Thrift Shop (feat. Wanz)",
+      "artist": "Macklemore, Ryan Lewis, Wänz",
+      "has_synced": true,
+      "path": "select/16_Thrift_Shop_(feat._Wanz)_Macklemore,_Ryan_Lewis,_Wänz.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Thrift Shop (Bart & Baker Remix)",
+      "artist": "Scott Bradlee & Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/17_Thrift_Shop_(Bart_&_Baker_Remix)_Scott_Bradlee_&_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Thrift Shop (Bart & Baker remix)",
+      "artist": "Scott Bradlee’s Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/18_Thrift_Shop_(Bart_&_Baker_remix)_Scott_Bradlee’s_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thrift Shop",
+      "artist": "Macklemore & Ryan Lewis",
+      "has_synced": false,
+      "path": "select/pl_01_Thrift_Shop_Macklemore_&_Ryan_Lewis.txt"
+    }
+  ]
+}
